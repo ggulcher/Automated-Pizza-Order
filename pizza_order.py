@@ -20,7 +20,7 @@ command = input("Your usual order, sir?")
 
 if command == "yes":
     print("Of course, sir.")
-    pizza_order(*)
+    pizza_order(pizzapi)
 else:
     print("Of course, sir. Shutting down.")
     exit()
